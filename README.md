@@ -1,7 +1,7 @@
 # CycleGAN
 Simple Python CycleGAN implementation from scratch in Pytorch.<br>
 Project contains two configurations: train and generate configuration.<br>
-Train configuration is used for training and evaluation of data.<br>
+Train configuration is used for training and model evaluation.<br>
 Generate configuration is used for generating images from pretrained models.<br>
 ## Train configuration:
 `--train` <br>
